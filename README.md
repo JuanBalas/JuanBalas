@@ -16,7 +16,7 @@ Mi objetivo en estos dos años de ciclo es aprender a programar para poder traba
 - Me encantan los deportes, sobretodo el padel y el futbol.
 - Me lo paso bien viendo videos en Youtube y Twitch.
 - Me gusta ver videos sobre informática en mi tiempo libres
-- En el futuro me encantaría dedicarme a crear aplicaciones web o videojuegos
+- En el futuro me gustaría aplicar los conocimientos que me ha proporcionado este ciclo para crear aplicaciones web y videojuegos
 - 
 
 ### Contactos
