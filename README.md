@@ -1,5 +1,6 @@
 ### Hola, soy [JuanBalas][website] 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/JuanBalas?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JuanBalas)
 
 Here are some ideas to get you started:
 
