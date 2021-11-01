@@ -1,7 +1,7 @@
 ### Hola, soy [JuanBalas][website] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JuanBalas?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JuanBalas)
-
+[<img arc="https://i0.wp.com/indexdesarrollo.com/wp-content/uploads/2017/05/lenguajes-de-programacion-web-parte-2.jpg?fit=600%2C260&ssl=1"]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
