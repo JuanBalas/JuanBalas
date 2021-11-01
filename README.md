@@ -16,13 +16,12 @@ Mi objetivo en estos dos años de ciclo es aprender a programar para poder traba
 - Me lo paso bien viendo videos en Youtube y Twitch.
 - Me gusta ver videos sobre informática en mis tiempos libres
 - En el futuro me encantaría dedicarme a crear aplicaciones web o juegos
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 
 ### Contactos
 [![Twitter Follow](https://img.shields.io/twitter/follow/JuanBalas?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JuanBalas)
+
+Mi gmail personal :Juanilian2015@gmail.com
 
 <!--LINKS-->
 
