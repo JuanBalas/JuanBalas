@@ -1,17 +1,28 @@
-### Hola, soy [JuanBalas][website] 👋
+<p align="center">
+  <img src="https://dev-res.thumbr.io/libraries/82/30/08/lib/1464789527978_30.jpg?size=854x493s&ext=jpg" width="350" title="hover text">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/JuanBalas?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JuanBalas)
-[<img arc="https://i0.wp.com/indexdesarrollo.com/wp-content/uploads/2017/05/lenguajes-de-programacion-web-parte-2.jpg?fit=600%2C260&ssl=1"]
-Here are some ideas to get you started:
+### Hola, soy [Juan Sánchez][website] 👋
+Tengo 20 años, tengo el título de bachillerato y ahora estoy estudiando el Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma(DAM).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+Mi objetivo en estos dos años de ciclo es aprender a programar para poder trabajar de ello en el futuro.
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/886222897851531265/894274968806912031/my-octocat-1633282083313.png" width="300" alt="accessibility text">
+</p>
+
+#### Mis aficiones son:
+
+- Me encantan los deportes, sobretodo el padel y el futbol.
+- Me lo paso bien viendo videos en Youtube y Twitch.
+- Me gusta ver videos sobre informática en mis tiempos libres
+- En el futuro me encantaría dedicarme a crear aplicaciones web o juegos
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Contactos
+[![Twitter Follow](https://img.shields.io/twitter/follow/JuanBalas?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JuanBalas)
 
 <!--LINKS-->
 
