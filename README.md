@@ -1,7 +1,7 @@
 <p align="center">
   <img src="http://www.abcpedia.com/wp-content/uploads/2015/09/codigo-binario-ceros-y-unos.gif" width="350"  title="hover text">
 
-### Hola, soy [Juan Sánchez Balastegui][website] 👋
+### Hola, me llamo [Juan Sánchez Balastegui][website] 👋
 Soy un estudiante de Alcorcón, tengo 20 años,curse bachillerato de ciencias y ahora estoy estudiando el Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma(DAM).
 
 Mi objetivo en estos dos años de ciclo es aprender a programar para poder trabajar de ello en el futuro.
