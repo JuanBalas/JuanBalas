@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dev-res.thumbr.io/libraries/82/30/08/lib/1464789527978_30.jpg?size=854x493s&ext=jpg" width="350" title="hover text">
+  <img src="http://www.abcpedia.com/wp-content/uploads/2015/09/codigo-binario-ceros-y-unos.gif" width="350" title="hover text">
 
 ### Hola, soy [Juan Sánchez][website] 👋
 Tengo 20 años, tengo el título de bachillerato y ahora estoy estudiando el Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma(DAM).
@@ -21,7 +21,7 @@ Mi objetivo en estos dos años de ciclo es aprender a programar para poder traba
 ### Contactos
 [![Twitter Follow](https://img.shields.io/twitter/follow/JuanBalas?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JuanBalas)
 
-Mi gmail personal :Juanilian2015@gmail.com
+Mi gmail personal: Juanilian2015@gmail.com
 
 <!--LINKS-->
 
