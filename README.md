@@ -15,9 +15,8 @@ Mi objetivo en estos dos años de ciclo es aprender a programar para poder traba
 
 - Me encantan los deportes, sobretodo el padel y el futbol.
 - Me lo paso bien viendo videos en Youtube y Twitch.
-- Me gusta ver videos sobre informática en mi tiempo libres
-- En el futuro me gustaría aplicar los conocimientos que me ha proporcionado este ciclo para crear aplicaciones web y videojuegos
-- 
+- Me gusta ver videos sobre informática en mi tiempo libre
+- En el futuro me gustaría aplicar los conocimientos que me ha proporcionado este ciclo para crear aplicaciones web y videojuegos.
 
 ### Contactos
 [![Twitter Follow](https://img.shields.io/twitter/follow/JuanBalas?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JuanBalas)
